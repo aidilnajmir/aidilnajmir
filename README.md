@@ -20,7 +20,7 @@
   <img align="right" height="150" src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=6c09b9526y1bofzwx8pweg0f6fbeo1x80yzxlfcviitfjld8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aidilnajmir&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
